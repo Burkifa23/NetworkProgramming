@@ -1,10 +1,8 @@
 # Network Programming
 
 
-
-
 ### Implement Protocols such TCP/IP and UDP
-- [ ]  TCP in Python
+- [ ]  TCP Chat in Python
   
 ### LAN Chat in various languages
 ### File Transfer
