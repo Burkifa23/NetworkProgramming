@@ -7,7 +7,14 @@
 - [ ]  UDP in Java
 - [x]  [CLI Group Chat](https://github.com/programmer-233/GroupChat)
 - [ ]  TCP Chat in Rust
+- [ ]  TCP in Go
   
 ### LAN Chat in various languages
 ### File Transfer
+- [ ] FTP in Java
 ### Network Monitoring
+
+### HTTP SERVER
+- [ ]  GO
+- [ ]  Java
+- [ ]  Python
