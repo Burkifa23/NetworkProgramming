@@ -15,6 +15,7 @@ Built on [Programmer-233](https://github.com/programmer-233) GitHub Page
   
 ### File Transfer
 - [ ] FTP in Java
+- [ ] FTP in Python 
 ### Network Monitoring
 
 ### HTTP SERVER
