@@ -21,4 +21,5 @@ Built on [Programmer-233](https://github.com/programmer-233) GitHub Page
 ### HTTP SERVER
 - [ ]  GO
 - [ ]  Java
-- [ ]  Python
+- [X]  Python ` python -m http.server`
+
